@@ -1,0 +1,22 @@
+# Blender MTL File: 'Cactus.blend'
+# Material Count: 2
+
+newmtl Material
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.384786 0.640000 0.178489
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Bump Cactus Normal.png
+map_Kd Cactus.png
+
+newmtl Material.001
+Ns 9.803922
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.574208 0.469333
+Ks 0.064972 0.064972 0.064972
+Ni 1.000000
+d 1.000000
+illum 2
