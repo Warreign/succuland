@@ -10,7 +10,7 @@
 
 const unsigned int WINDOW_WIDTH = 800;
 const unsigned int WINDOW_HEIGHT = 800;
-static const char* WINDOW_TITLE = "PGR: shubevik";
+static const char* WINDOW_TITLE = "Succuland";
 #define REFRESH_TIME unsigned int(float(1000) / Camera::refreshRate) // ms
 
 auto timeBegin = std::chrono::steady_clock::now();
