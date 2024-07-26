@@ -1,6 +1,14 @@
 # Succuland
 A simple scene usign OpenGL, freeGLUT, Assimp, DevIL libraries.
 
+**Results:**
+
+![Day](screenshots/screenshot1.png)
+
+![Fog](screenshots/screenshot2.png)
+
+![Night](screenshots/screenshot3.png)
+
 **Features:**
 * Terrain generated using perlin noise and a custom seed (seed.txt)
 * Variable number of lights:
